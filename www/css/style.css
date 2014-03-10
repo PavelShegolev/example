@@ -1,0 +1,65 @@
+#head{
+  width: 80%;
+  height: 30px;
+  background: #d0d873;
+  text-align:right;
+  margin:0 auto;
+}
+#head_name_site{
+  color:white;
+  text-decoration:none;
+  padding:30px;
+  font-family: Arial;
+  font-size:18px;
+}
+
+#footer{
+  width: 80%;
+}
+
+#aside{
+	width:200px;
+	margin:0 auto;
+}
+
+#pos_aside{
+  margin-left:440px;
+}
+
+#hr_aside{
+  border:1px dashed #d0d873;
+}
+
+#arcicle{
+  width:700px;
+  margin:0 auto;
+}
+
+#article_position{
+  margin-top:-700px;
+  margin-left:-200px;
+}
+
+
+.field {clear:both; text-align:right; line-height:25px;}
+label {float:left; padding-right:10px;}
+#form_send_email {float:left; width:280px; margin-left:30%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
